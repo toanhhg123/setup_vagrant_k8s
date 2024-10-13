@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "apiserver",
+        "buildx",
+        "containerd",
+        "Curricaulam",
+        "dbless",
+        "dearmor",
+        "dpkg",
+        "eczpa",
+        "evbwqcb",
+        "keyrings",
+        "kubeadm",
+        "KUBECONFIG",
+        "kubelet",
+        "mycluster",
+        "netfilter",
+        "newgrp",
+        "relabelings",
+        "runc",
+        "runtimes",
+        "selfsigned",
+        "socat",
+        "swapoff",
+        "timedatectl",
+        "timesyncd",
+        "usermod"
+    ]
+}
